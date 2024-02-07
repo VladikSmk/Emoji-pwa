@@ -1,0 +1,27 @@
+.width-device{
+    display: block;
+    height: 400px;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(54, 192, 36);
+}
+
+.width-device img{
+    display: block;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.feed{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 86px;
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: center;
+}
