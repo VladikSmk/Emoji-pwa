@@ -9,6 +9,7 @@ class Emoji
         if(this.food >= 100){
             this.food = 100;
         }
+        document.querySelector('.food').textContent = emoji.food;
         
     };
     
