@@ -1,0 +1,19 @@
+{
+    "name": "EmojiTamagochi",
+    "short_name": "Emoji",
+    "id": "/Emoji-pwa/",
+    "star_url": "/Emoji-pwa/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "emoji-wink-svgrepo-com.svg",
+            "type": "image/svg+xml",
+            "purpose": "any",
+            "sizes": "48x48 72x72 96x96 128x128 152x152 192x192 256x256 384x384 512x512"
+        }
+    ]
+
+}
